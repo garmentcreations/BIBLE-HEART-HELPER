@@ -1,0 +1,8 @@
+{
+  "name": "Bible Heart Helper",
+  "description": "A digital spiritual guidance system that maps your emotions to color-coded categories and provides aligned biblical wisdom.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
